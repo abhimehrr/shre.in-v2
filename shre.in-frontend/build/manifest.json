@@ -1,0 +1,30 @@
+{
+  "short_name": "shre.in",
+  "name": "Shre.IN - Share Text and Files within the same network or accross the world by connecting to the particular room.",
+  "icons": [
+    {
+      "src": "./img/favicon/favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    }
+  ],
+  "start_url": "/",
+  "display": "standalone",
+  "primary" : "#00ffff;",
+  "overlay" : "rgba(0, 255, 255, .5);",
+  "overlay2" : "rgb(0, 44, 44);",
+  "overlay3" : "rgb(0, 44, 44, .6);",
+  "secondary" : "white;",
+  "blk1" : "#131313;",
+  "blk2" : "#1a1a1a;",
+  "blk3" : "#333333;",
+  "light" : "white;",
+  "grey" : "#e6e6e6;",
+  "success" : "#198754;",
+  "green" : "#006837;",
+  "lightgreen" : "#00ff00;",
+  "lemongreen" : "#009245;",
+  "danger" : "#ff1d25;",
+  "warning" : "#fcee21;",
+  "darkorange" : "#fbb03b;"
+}
